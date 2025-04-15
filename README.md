@@ -6,8 +6,6 @@ Created & maintained by **Vandelay Technologies**.
 
 ---
 
-## Contracts
-
 ### ERC20 Token (`ERC20Token.sol`)
 A standard ERC20 token implementation following OpenZeppelin standards.  
 **Features:**
